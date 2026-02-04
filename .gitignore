@@ -2,3 +2,8 @@
 __pycache__/
 .pytest_cache/
 .DS_Store
+
+# NZES data (obtain from ADA; see README)
+data/raw/
+data/processed/
+doi-10.26193-hhmeuz/
